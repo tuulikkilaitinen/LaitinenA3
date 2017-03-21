@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaitinenA3</string>
+    <string name="stringChoose">Please choose a website</string>
+    <string name="stringMesa">Mesa College</string>
+    <string name="stringGo">Go</string>
+    <string name="stringYahoo">Yahoo</string>
+</resources>

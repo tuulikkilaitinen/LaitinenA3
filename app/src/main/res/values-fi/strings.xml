@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LaitinenA3Paras</string>
+    <string name="stringChoose">Valitse nettisivu</string>
+    <string name="stringGo">Klikkaa tata</string>
+    <string name="stringMesa">Mesa Koulu</string>
+    <string name="stringYahoo">Se Huonompi Hakukone</string>
+</resources>
